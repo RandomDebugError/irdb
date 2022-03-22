@@ -5,7 +5,7 @@
 
 <hr>
 <h3 align="center">
-  A collection of IR files and walkthrough for the <a href="https://flipperzero.one">Flipper Zero</a> device.<br><br>
+  A collection of IR files and walkthrough for the <a href="https://flipperzero.one">Flipper Zero</a> device. Click above for 42 Edition Firmware<br><br>
   <a href="#">
     <img src="https://img.shields.io/badge/Powered%20by-Dolphins-blue" alt="Powered by dolphins" height=24>
     <img src="https://img.shields.io/badge/Approved%20by-RandomDebugError-brightgreen" alt="Approved by RandomDebugError" height=26 title="Why Bother">
