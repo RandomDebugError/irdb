@@ -1,3 +1,22 @@
+<hr>
+<a href="hhttps://github.com/RandomDebugError/flipperzero-firmware-1">
+  <img src="https://i.imgur.com/Nto2Rie.png" align="center" alt="Awesome Flipper Zero" title="Awesome Flipper Zero">
+</a>
+
+<hr>
+<h3 align="center">
+  A collection of IR files and walkthrough for the <a href="https://flipperzero.one">Flipper Zero</a> device.<br><br>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Powered%20by-Dolphins-blue" alt="Powered by dolphins" height=24>
+    <img src="https://img.shields.io/badge/Approved%20by-RandomDebugError-brightgreen" alt="Approved by RandomDebugError" height=26 title="Why Bother">
+    <img src="https://img.shields.io/badge/Hack-The%20Planet-orange" alt="Hack the planet" height=26>
+  </a>
+</h3>
+<hr>
+
+<!-- Shout out to Lurat for html-->
+
+
 # **For Flipper Zero Use**
 
 ## The Flipper Zero currently supports the tranmission of the following types of IR Protocols:
