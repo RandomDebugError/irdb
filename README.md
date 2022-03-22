@@ -1,5 +1,5 @@
 <hr>
-<a href="https://github.com/RandomDebugError/flipperzero-firmware-1">
+<a href="https://github.com/RandomDebugError/flipperzero-firmware-1/releases">
   <img src="https://i.imgur.com/Nto2Rie.png" align="center" alt="42 Edition" title="42 Edition">
 </a>
 
