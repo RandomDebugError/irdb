@@ -1,6 +1,6 @@
 <hr>
-<a href="hhttps://github.com/RandomDebugError/flipperzero-firmware-1">
-  <img src="https://i.imgur.com/Nto2Rie.png" align="center" alt="Awesome Flipper Zero" title="Awesome Flipper Zero">
+<a href="https://github.com/RandomDebugError/flipperzero-firmware-1">
+  <img src="https://i.imgur.com/Nto2Rie.png" align="center" alt="42 Edition" title="42 Edition">
 </a>
 
 <hr>
